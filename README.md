@@ -20,7 +20,11 @@ Projeto será posteriormente disponibilizado no GitHub Pages.
  - `Git` and `GitHub` - Controle de versão
 
  ## Itens em desenvolvimento
-
+  - Transformar o projeto em um quiz do Chapéu Seletor de Harry Potter - EM ANDAMENTO
+    - Modificar as perguntas - EM ANDAMENTO
+    - Adicionar páginas de resultados para cada casa com estilo característico, mais informações, integrantes famosos - EM ANDAMENTO
+  - Adicionar responsividade ao projeto - EM ANDAMENTO
+  - Modificar a estilização para a abordagem mobile-first - EM ANDAMENTO
 
  ## Autor
 
