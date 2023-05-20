@@ -9,7 +9,7 @@ O clone do buzzfeed contará com um quiz a ser respondido pelo usuário, que tra
 
 ## Acesso ao projeto
 
-Projeto será posteriormente disponibilizado no GitHub Pages.
+Projeto disponível ![aqui](https://camilabsm.github.io/buzzfeed-quiz-clone/)!
 
 ## Tecnologias utilizadas
  - `HTML`
@@ -22,6 +22,7 @@ Projeto será posteriormente disponibilizado no GitHub Pages.
  ## Itens em desenvolvimento
   - Transformar o projeto em um quiz do Chapéu Seletor de Harry Potter - EM ANDAMENTO
     - Modificar as perguntas - CONCLUÍDO
+    - Modificar a estilização para paleta de cores de acordo com o tema - EM ANDAMENTO
     - Adicionar páginas de resultados para cada casa com estilo característico, mais informações, integrantes famosos - EM ANDAMENTO
   - Adicionar responsividade ao projeto - CONCLUÍDO
   - Modificar a estilização para a abordagem mobile-first - CONCLUÍDO
