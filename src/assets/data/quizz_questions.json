@@ -1,55 +1,122 @@
+
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual a sua casa em Hogwarts?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O que te motiva?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Busca de expandir a mente", "alias":"C"},
+        {"id": 2, "name":"Expressar minhas próprias verdades", "alias":"S"},
+        {"id": 3, "name":"Vontade de ajudar os outros", "alias":"L"},
+        {"id": 4, "name":"Vontade de construir algo que faça sentido pra mim", "alias":"G"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Por qual motivo você busca conhecimento?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Para aprimoramento pessoal", "alias":"C"},
+        {"id": 2, "name":"Para estar pronto para situações futuras", "alias":"G"},
+        {"id": 3, "name":"Para descobrir coisas novas", "alias":"L"},
+        {"id": 4, "name":"Para conseguir informações úteis para chegar onde quero", "alias":"S"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual dessas opções você mais odiaria que as pessoas te chamassem?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Comum", "alias":"S"},
+        {"id": 2, "name":"Ignorante", "alias":"C"},
+        {"id": 3, "name":"Covarde", "alias":"G"},
+        {"id": 4, "name":"Egoísta", "alias":"L"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que vem antes pra você?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"O que eu acredito e tenho como verdade", "alias":"G"},
+        {"id": 2, "name":"O que importa para mim", "alias":"S"},
+        {"id": 3, "name":"O que é justo", "alias":"L"},
+        {"id": 4, "name":"O que é novo e pode se tornar um aprendizado", "alias":"C"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Escolha a poção que mais gostaria de inventar e usar.",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Poção do Amor", "alias":"L"},
+        {"id": 2, "name":"Poção de Poder", "alias":"S"},
+        {"id": 3, "name":"Poção da Fama", "alias":"G"},
+        {"id": 4, "name":"Poção da Sabedoria", "alias":"C"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como quer ser recordado após a sua morte?",
+      "options":[
+        {"id": 1, "name":"Não me interessa, só me importa apenas o que as pessoas pensam de mim e dos meus feitos enquanto estou vivo", "alias":"C"},
+        {"id": 2, "name":"Quero que as pessoas contem as minhas histórias e aventuras vez ou outra", "alias":"G"},
+        {"id": 3, "name":"Quero que as pessoas sorriam quando pensam em mim e digam que sentem a minha falta", "alias":"L"},
+        {"id": 4, "name":"Quero que as pessoas admirem minhas realizações", "alias":"S"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "O arbusto Flutterby produz a cada cem anos flores que mudam de cheiro a fim de atrair uma pessoa específica. Que perfume deve esta planta libertar para o atrair?",
+      "options":[
+        {"id": 1, "name":"O cheiro do mar", "alias":"G"},
+        {"id": 2, "name":"O perfume de um novo pergaminho", "alias":"C"},
+        {"id": 3, "name":"O cheiro da minha casa", "alias":"L"},
+        {"id": 4, "name":"O cheiro de uma fogueira a lenha", "alias":"S"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "4 baús são colocados à sua frente. Você só tem permissão para abrir um. Qual você escolhe?",
+      "options":[
+        {"id": 1, "name":"A caixa dourada talhada, com dois pés de garras, cuja inscrição avisa que contém conhecimentos secretos e tentações irresistíveis", "alias":"S"},
+        {"id": 2, "name":"A pequena caixa de carapaça de tartaruga dourada com ouro fino que parece conter uma criatura minúscula que guincha", "alias":"L"},
+        {"id": 3, "name":"A caixa negra brilhante com fechadura e chave prateada que possui uma misteriosa inscrição em runa que identifica imediatamente como a assinatura de Merlin", "alias":"C"},
+        {"id": 4, "name":"A pequena caixa de estanho, simples e despretensiosa, na qual se pode ler uma inscrição listrada que diz 'Abro apenas para aquele que a merece'", "alias":"G"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Entra-se num jardim encantado cheio de coisas misteriosas. Qual deles prefere examinar primeiro?",
+      "options":[
+        {"id": 1, "name":"A piscina borbulhante no fundo da qual se pode ver algo luminoso que rodopia incansavelmente", "alias":"G"},
+        {"id": 2, "name":"A estátua de um velho feiticeiro com um olho estranhamente cintilante", "alias":"C"},
+        {"id": 3, "name":"Os enormes cogumelos vermelhos que parecem conversar entre si", "alias":"L"},
+        {"id": 4, "name":"A árvore com folhas prateadas carregadas de maçãs douradas", "alias":"S"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "O que mais anseia aprender em Hogwarts?",
+      "options":[
+        {"id": 1, "name":"Feitiços e maldições", "alias":"S"},
+        {"id": 2, "name":"Todos os campos de magia que serei autorizado a estudar", "alias":"C"},
+        {"id": 3, "name":"Voo numa vassoura", "alias":"G"},
+        {"id": 4, "name":"Tudo o que preciso saber sobre criaturas mágicas e como domá-las", "alias":"L"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "É de noite, caminha-se sozinho numa rua mal iluminada. De repente, ouve-se um ruído estranho cuja origem parece mágica. Como é que reage?",
+      "options":[
+        {"id": 1, "name":"Acena sua varinha mágica para se defender sem ficar impressionado", "alias":"G"},
+        {"id": 2, "name":"Segura sua varinha mágica com força e tenta descobrir de onde veio o ruído", "alias":"L"},
+        {"id": 3, "name":"Caminha silenciosamente no escuro e faz uma lista mental de todos os feitiços de defesa e ataque que poderia usar", "alias":"C"},
+        {"id": 4, "name":"Continua o caminho com cautela e vigilante, mantendo a mão na varinha mágica escondida debaixo do casaco", "alias":"S"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "C": "Corvinal!",
+    "G": "Grifinória!",
+    "S": "Sonserina!",
+    "L": "Lufa-lufa!"
   }
 }
