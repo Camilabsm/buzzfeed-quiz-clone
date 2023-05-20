@@ -21,11 +21,10 @@ Projeto será posteriormente disponibilizado no GitHub Pages.
 
  ## Itens em desenvolvimento
   - Transformar o projeto em um quiz do Chapéu Seletor de Harry Potter - EM ANDAMENTO
-    - Modificar as perguntas - EM ANDAMENTO
+    - Modificar as perguntas - CONCLUÍDO
     - Adicionar páginas de resultados para cada casa com estilo característico, mais informações, integrantes famosos - EM ANDAMENTO
-  - Adicionar responsividade ao projeto - EM ANDAMENTO
-  - Modificar a estilização para a abordagem mobile-first - EM ANDAMENTO
-
+  - Adicionar responsividade ao projeto - CONCLUÍDO
+  - Modificar a estilização para a abordagem mobile-first - CONCLUÍDO
  ## Autor
 
  [<img src="https://avatars.githubusercontent.com/u/116114938?v=4" width=115><br><sub>Camila Matias</sub>](https://github.com/Camilabsm)

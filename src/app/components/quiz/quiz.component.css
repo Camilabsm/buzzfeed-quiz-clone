@@ -77,6 +77,10 @@
   text-align:center;
 }
 
+.quiz__results > p{
+  font-size: 1rem;
+}
+
 
 @media screen and (min-width: 768px){
   .quiz__questions{
@@ -90,6 +94,10 @@
   .btn-option{
     width: 40%;
     margin: 0 1rem 1rem 0;
+  }
+
+  .quiz__results > p{
+    font-size: 1.5rem;
   }
 }
 
